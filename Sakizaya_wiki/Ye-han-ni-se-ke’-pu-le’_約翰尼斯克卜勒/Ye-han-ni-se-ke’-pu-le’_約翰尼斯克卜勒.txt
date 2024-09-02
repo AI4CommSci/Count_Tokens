@@ -1,0 +1,25 @@
+ Ke-pu-le’ tinli 克卜勒定律 
+Ke-pu-le’ dinli u De-kuo kakay tapukuwan a tademaw, sapiasipaw ci Yehan-nise.Ke’pu-le maadih nida, tu saky bunacan tu pilaylayan a tinli. Ke’pu-le i caynem sepsiw a mihcaan itida ni patahekalan nida tu cudad “sintin-wensye” a cudada mikhapu tu sakay bunacan nipitiyungan a tusaay a tinli, sa i caynem caywal a mihcaan , maadih aca nida tu sakatulu a tinlian.  
+克卜勒定律是由德國天文學家、數學家約翰尼斯·克卜勒所發現的、關於行星運動的定律。克卜勒於1609年在他出版的《新天文學》科學雜誌上發表了關於行星運動的兩條定律，又於1618年，發現了第三條定律。
+Ke-pu-le malamed makaala tu singanganay ci Dan-may tinwen-syeciw ci Di’ku-pula-he’ piadihan atu sapisiludaw, u sakay malucekay a tinwen a cudadan. saan i caynem seplim a mihcaan, saan ci Pula-he’ a nika adihan tu bunacan nu kitidaan a cudadan, ci Ke-pu-la’ maadih nida ku nipituyungan miduduc tu tuluay nu madayumay a tinlian. tawya nu sadikuday a buladan, mamin tu sulidan nida ku sapahapu tu cudadan. nika katukuh tu caynem sepsiw a mihcaan , itida satu i “Sin-tin-wen-sye” cudadan mihapu, uynian a kawawan ci Pu-la-he’ a niadihan tu aasipan nu nida a dadaydayan nu tademaw, caay ka palemgan sa pabeli i  tawan, sisa sikawaw tu nu hulic a kawawan sa tadikud a patahekal. 
+克卜勒幸運地得到了著名丹麥天文學家第谷·布拉赫所觀察與收集、且非常精確的天文資料。大約於1605年，根據布拉赫的行星位置資料，克卜勒發現行星的移動遵守著三條相當簡單的定律。同年年底，他撰寫完成了發表文稿。但是，直到1609年，才在《新天文學》科學雜誌發表，這是因為布拉赫的觀察數據屬於他的繼承人，不能隨便讓別人使用，因此產生的一些法律糾紛造成了延遲。
+itini i tenwen-sye atu u’li-sye ci Ke’pu-le’ a tinli pabeli ci Yali-se-duode atu Tuole-mi’ idw ku sasakasetsetan. sakamusa u Ticiw caay pisengal malimad, u culil nu bunac caay kaw kimulmulay, u masatanayuay ku nikamulmul, nikalineng nu bunac a culil caay pilecad. mahiniay a kawawan, mahemek ku tawyaay a tenwen-sye atu u’li-sye. namaka cacay nu secian a nipikinkiw, u’li-yea cia a tademaw matineng tu micukaymas tu u’li-lilun a mikayeaku. ci Niw-tun u nida a sakatusa a tinli atu wanyiu-inli tinli, itini i aasipan micidek tu sisumi tu Ke’pu-le’-tinli, matineng tu ku tademaw nu dumaan a u’li a imian. 
+在天文學與物理學上、克卜勒的定律給予亞里斯多德派與托勒密派極大的挑戰。他主張地球是不斷地移動的；行星軌道不是圓形（epicycle）的，而是橢圓形的；行星公轉的速度不等恆。這些論點，大大地動搖了當時的天文學與物理學。經過幾乎一個世紀的研究，物理學家終於能夠運用物理理論解釋原理。牛頓應用他的第二定律和萬有引力定律，在數學上嚴格地証明了克卜勒定律，也讓人了解了其中的物理意義。
+
+Ke’pu-le’ tinli克卜勒定律
+Ke’pu-le’ a tuluay nu bunacan tinli misumad tu hatidaay nu tenwen-sya, mapalawpestu ku ni Tuo-le’-mi nu masasibutay a yicuo nu kawawan, sapi’tu madayum tu Ke-pay-ni a z-sin-suo.
+克卜勒的三條行星運動定律改變了整個天文學，徹底摧毀了托勒密複雜的宇宙體系，完善並簡化了哥白尼的日心說。
+
+su’-sye tuydaw : namaka ci Niw-tun nu wanyutinli’ patahekal tu Ke’pu-le’tinli’
+數學推導：由牛頓萬有引力定律導出克卜勒定律
+Ke-pu-le’ tinli sakamusa a bunac mihaliyut tu cilal a laylayan, Niw-tun tinli taneng misatabaki misakamu tu pinaay nu adidiay yu masasutenten nu malaheciay a pilaylayan. anu idaw ku tusaay adidiay, nu cacayay a adidiay mikiba’ket tu duma a adidiay, ya ahemaway a adidiay matineng misaliyut tu ba’keday , mahida u bunac tu sakay Ke’pu’le tinli misaliyud milaylay. duma satu, ni Niw-tun tinli taneng henay misausi tu sakay katinengan, u bunac ni culilan taneng mahida u miwaitay atu tusaay a nikulitan nu laylayan. uyniyan nu Ke’-pu’-le tinli tu caayay kaw mitanengay a lahecian. itida i caayay pilakuuyday tadan i dumaan nu adidiay a waywayan, miduduc tu sakaahebal nu tusaay nu caay kakasilahecian a kalahecian, tu yaadidiay mihaliyut tu nuhenian a kapulungan nu laylayan. uyniyan han u Ke’-pu’-le tinli caayay kakatinengan. 
+克卜勒定律描述的是行星圍繞太陽的運動，牛頓定律可以更廣義地描述幾個粒子因萬有引力相互吸引而形成的運動。假設只有兩個粒子，其中一個粒子超輕於另外一個粒子，則輕的粒子會繞著重的粒子運動，就好似行星根據克卜勒定律繞著太陽運動。另外，牛頓定律還可計算出關於其它方面的解答，行星軌道可以呈拋物線運動或雙曲線運動。這是克卜勒定律所無法預測到的結果。在一個粒子並不超輕於另外一個粒子的狀況下，依照廣義二體問題的解答，每一個粒子會繞著它們的共同質心運動。這也是克卜勒定律無法預測到的。
+Ke’-pu-le’ tinli micukaymas tu cihe pikedaan tu bunac a aenengan atu tuki atu dadan malalitin. Niw-tun sakatusa tinli u wi-ci-hu. Ke’-pu-le’ tinli a nipicuduhan milakuuyt tu sakay wi-ci-hu a kakakawan. yu amicuduh tu sakacacay ni Ke-pu-le’ tinli henay, kanca a mikiayaw micuduh tu sakatusa ni Ke-pu-le’ tinli, dayhan sakacacay ni Ke-pu-le’ tinli kanca a micukaymas tu sakatusa ni Ke-pu-le’ a laheci nu sapisausian.
+克卜勒定律使用幾何語言將行星的坐標及時間跟軌道參數相連結。牛頓第二定律是一個微分方程式。克卜勒定律的推導涉及一些解析微分方程式的技巧。在推導克卜勒第一定律之前，必須先推導出克卜勒第二定律，因為克卜勒第一定律需要用到克卜勒第二定律裏的一些計算結果。
+
+Ke’-pu-le’ sakatusa tinli picuduhan克卜勒第二定律推導
+Niw-tun wanyiu pihelupan tinli sakamusa, paceba han padeng ku tusaay adidiay nu milakuuytay tu keliwan a icelang nikasacuhcuh. u ba’ket a tabaki adidi atu tuudan nu heni malecad sa, atu u laa’da nu heni masacacuis. Yaucilal tada miba’ket tu bunac, taneng mitaneng tu cilal u masaimengay. 
+牛頓萬有引力定律表明，任意兩個粒子由通過連線方向的力相互吸引。該重力的大小與它們的質量乘積成正比，與它們距離的平方成反比。由於太陽超重於行星，可以假設太陽是固定的。
+
+malalitin tu ihekalay atu zumaay a natinengan
+https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%E5%86%85%E6%96%AF%C2%B7%E5%BC%80%E6%99%AE%E5%8B%92

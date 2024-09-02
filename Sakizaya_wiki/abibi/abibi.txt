@@ -1,0 +1,51 @@
+abibi
+
+nilacul
+u kumu nu Hulam
+抱（起來）
+
+u kamu nu Amilika
+hug
+
+u kamu nu Lipun
+ハグ
+
+u zumazuma nu abibi
+abibi抱（起來）
+abibien要抱起來(命令)
+abibiyan被抱起來
+haliabibi很喜歡抱
+maabibi被抱走
+miabibi抱起來
+namaabibi被抱過
+
+abibien
+abibien(要抱起來命令) ku wawa a milakec tu sauwac!
+
+abibiyan
+abibiyan(被抱起來) ni Edi' ci bayi niza.
+abibiyan nu Alikakay ku saba isu Kacaw.
+
+haliabibi
+haliabibi(很喜歡抱) ci Tubah tu lutungay.
+
+maabibi
+maabibi(被抱走) nu Alikakay i labi ku saba ni Kacaw.
+
+miabibi
+miabibi(抱起來) kaku tu wawa ni Kacaw.
+
+namaabibi
+[null namaabibi] [null kiyu] hinaangic [null tuway] [null kiza] [null lutungay].
+
+tinaku ku kamu u Sakizaya:
+(abibien) abibien ku wawa a milakec tu sauwac! 
+(abibiyan) abibiyan ni Edi' ci bayi niza. abibiyan nu Alikakay ku saba isu Kacaw.
+(haliabibi) haliabibi ci Tubah tu lutungay. 
+(maabibi) maabibi nu Alikakay i labi ku saba ni Kacaw. 
+(miabibi) miabibi kaku tu wawa ni Kacaw. 
+(namaabibi) namaabibi kiyu hinaangic tuway kiza lutungay.
+
+namakayniay a nasulitan nasakamuan atu natinenganː
+malaalitin tu i hekalay atu zumaay a natinenganː
+Yuancumincu kamu i calay-zazan a sukudad原住民族語言線上詞典
