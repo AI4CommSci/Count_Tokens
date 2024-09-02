@@ -1,0 +1,4 @@
+= Sbcuran  =
+Ex: Ga sbcuran laqi ga.
+:bicur 
+

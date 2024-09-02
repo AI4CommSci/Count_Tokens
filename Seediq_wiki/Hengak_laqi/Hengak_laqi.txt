@@ -1,0 +1,27 @@
+Hengak laqi we, kingal klegan na hengak ga truma Knklaan phrenang, mssipo daka hengak bubu. Phrenang de, qreengun ka hengak quwaq truma.
+Ttreun ka kaydang phrenang hengak laqi, knkingal we, qmeere, knseung, kmaguh. Nasi ini pntena ka kaydang, ini pntena hengak denu.
+
+子音的特徵
+輔音可以依據數個發音特點加以分類：
+
+調音方法：輔音發音的機制，例如鼻音（通過鼻腔）、塞音（氣流被完全阻塞）、或是近音（近似母音）。
+調音部位：在聲道中氣流受到阻礙的部位及所牽涉到的發音器官，例如雙唇、齒齦、軟顎等。一個輔音有時可能牽涉不只一個發音部位，例如顎音化或喉壁化的輔音。
+清濁音：輔音發音時聲帶的振動模式。發濁音時，聲帶有充分振動；發清音時，聲帶完全不振動。
+VOT（voice onset time）：一輔音從除阻的一刻到聲帶開始震動，中間所經過的時間。送氣與否與VOT有關。
+氣流機制：通過聲道的氣流的產生機制。在大多數語言中，所有輔音都採取肺呼氣機制（pulmonic egressive），但部分語言也會使用緊喉音（ejectives）、內破音（implosives）、搭嘴音（clicks）等氣流機制不同的輔音。
+長度：輔音的發音中，阻塞維持的時間。例如在日語、義大利語、芬蘭語等語言中，一般輔音與雙輔音（阻塞較長，或稱長輔音）代表不同的音位。在愛沙尼亞語及少數其他語言中，甚至有三種不同的輔音長度，雖然牽涉其中的發音差異較為複雜。
+發音時的力道：一個尚未完全確立的特點，因為目前沒有觀察到任何語言純綷以力道來區分不同輔音。
+所有的輔音均能以上述的特點加以描述，例：漢語中的"t"即為"清齒齦塞音" [t]（未標明氣流機制）。
+有些輔音會被區分為強（fortis）或弱（lenis），如"p/b"、"t/d"，但這屬於音韻學（phonology）而非語音學（phonetics）上的區分。
+
+Gaya na hengak laqi
+Niqan hengak msepuq ka kana kari.
+Hengak msepuq qntaan riyung we, [p], [t], [k], nasi uka riyung hengak msepuq ka kingal kari, niqan 2 duri peni.
+Hengak smerus qntaan blbale we, [s]. Nasi wano kingal hengak smerus ga truma kari, asi ka [s].
+To niqan 1~2 Hengak muhing so [m], [n] ka kana kari.
+To niqan Hengak qsiya(Liquids) kana kari, wano biciq kari ka uka.
+
+參看
+Patis hengak kkklangan
+Knklaan krkari
+Knklaan hengak

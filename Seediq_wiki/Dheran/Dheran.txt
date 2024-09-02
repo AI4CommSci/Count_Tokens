@@ -1,0 +1,9 @@
+= Dheran（土地） =
+Dheran 土地
+Dheran hgalang透水性高的土地
+Dheran srcilung 透水性不好容易淹水的土地
+Dheran bale 水田
+Dheran cadu 乾旱龜裂的田
+Dheran mmaku 都是芒草
+Dheran tmara 很乾淨沒有草且可以開始種植的田地
+Dheran tongan 肥沃的土地
