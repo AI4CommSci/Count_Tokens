@@ -6,9 +6,11 @@ def main():
     langs = ['Amis_wiki', 'Paiwan_wiki', "Atayal_wiki", "Sakizaya_wiki", "Seediq_wiki"]
     home = os.curdir
     counts = {'Amis_wiki':0, 'Paiwan_wiki':0, "Atayal_wiki":0, "Sakizaya_wiki":0, "Seediq_wiki":0}
+    files = dict()
     for lang in os.listdir():
         if lang in langs:
             lang_path = os.path.join(home, lang)
+            print(lang, len(os.listdir(lang_path)), "\n")
             for article in os.listdir(lang_path):
                 if article == ".DS_Store":
                     continue
@@ -24,10 +26,13 @@ def main():
                 data = data.translate(str.maketrans('', '', string.punctuation))
                 #print(len(data.split()))
                 counts[lang] += len(data.split())
+                if lang == "Amis_wiki":
+                    files[article] = len(data.split())
             
     
 
     print(counts)
+    print(files)
 
 def count():
     data = pd.read_csv("counts.txt")
@@ -37,6 +42,7 @@ def count():
     print(token_counts)
     print(list(token_counts['Language']))
     print(list(token_counts['Total Tokens']))
+    print(sum(list(token_counts['Total Tokens'])))
 
 if __name__ == "__main__":
     count()

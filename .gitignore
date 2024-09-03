@@ -1,6 +1,2 @@
-./Amis_wiki
-./Atayal_wiki
-./Paiwan_wiki
-./Sakizaya_wiki
-./Seediq_wiki
-./venv
+venv
+.DS_Store
