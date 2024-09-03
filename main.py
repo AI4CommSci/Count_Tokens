@@ -1,6 +1,8 @@
 import os
 import string
 import pandas as pd
+import xml.etree.ElementTree as ET
+
 
 def main():
     langs = ['Amis_wiki', 'Paiwan_wiki', "Atayal_wiki", "Sakizaya_wiki", "Seediq_wiki"]
@@ -43,6 +45,29 @@ def count():
     print(list(token_counts['Language']))
     print(list(token_counts['Total Tokens']))
     print(sum(list(token_counts['Total Tokens'])))
+
+
+def count_ILRDF():
+    dir = os.path.join(os.curdir, "ILRDF")
+    ILRDF_count = dict()
+    for file in os.listdir(dir):
+            count = 0
+            file_path = os.path.join(dir, file)
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+
+            # Iterate over all <S> elements
+            for s in root.findall('.//S'):
+                # Find the <FORM> element within the <S> element
+                form = s.find('FORM')
+
+                if form is not None and form.text is not None:
+                    # Split the text of the <FORM> element into words
+                    words = form.text.split()
+                    # Count the number of words
+                    count += len(words)
+            
+            ILRDF_count[file.split('.')[0]] = count
 
 if __name__ == "__main__":
     count()
